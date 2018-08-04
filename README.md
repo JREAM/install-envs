@@ -93,3 +93,9 @@ gvm use latest
 
 gvm uninstall go1.10.3
 ```
+
+---
+
+MIT Open Source
+
+(C) 2018 Jesse Boyer <[JREAM](https://jream.com)>
